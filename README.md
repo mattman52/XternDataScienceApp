@@ -1,4 +1,7 @@
 # XternDataScience
+
+Can use either the py file or the notebook file. I am just learning notebook now in classes so I am not 100% comfortable working within it yet. 
+
 This is my code and analysis for the Data Science portion.
 The code (xtern.py) has two main functions read_data and scatter_plot.
 
